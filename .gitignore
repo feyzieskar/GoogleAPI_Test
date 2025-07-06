@@ -1,0 +1,18 @@
+# Sanal Ortam Klasörü
+.venv/
+venv/
+
+# Python Cache Dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Kimlik Bilgileri ve Hassas Dosyalar
+gcp_credentials.json
+*.env
+response.mp3
+recording.wav
+
+# IDE ve OS'a özel dosyalar
+.idea/
+.DS_Store
